@@ -1,0 +1,430 @@
+Header: Peer Reviewed Publications, Type: Publication
+Header: Peer Reviewed Proceedings, Type: Conference
+Header: Book Chapters, Type: Book Chapter
+Header: Conference Papers – Peer Reviewed, Type: Conference
+Publications:
+- 
+- 
+- 
+- Townsend, D.M., Hunt, R.A, [] J. Rady, [] P. Manocha & [] J-Y Jin. (2023). “Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence.”  Academy of Management Review.
+- 
+- 
+- 
+- Hunt, R.A., Townsend, D.M., Lerner, D.A. & Brownell, K. (2023) Pivot or Perish? Knowledge Problems and the Limits to “Entrepreneur-as-Scientist.” Journal of Business Venturing Insights.
+- 
+- 
+- 
+- Bort, J., J. Wiklund, D. Lerner, C. Crawford & R.A. Hunt. (2023). “The Strategic Advantage of Impulsivity in Entrepreneurial Action: An Agent-Based Modeling Approach.” Entrepreneurship Theory & Practice.
+- 
+- 
+- 
+- []Manocha, P., R.A. Hunt, D.M. Townsend, and M. Stallkamp. (2023). “A Tale of Two Impacts: Entrepreneurial Action and the Gender-Related Effects of Policy Uncertainty” Journal of Business Venturing Insights.
+- 
+- 
+- 
+- Van Lent, W., R.A. Hunt & D.A. Lerner. (2023). “Historiography and the Excavation of Nascent Business Venturing.”  Small Business Economics.
+- 
+- 
+- 
+- [] Schwarte, Y., Y. Song, R.A. Hunt & F. Lohrke. (2023). “Passion as Process: Three Perspectives on Entrepreneurial Passion and an Integrated Path Forward.” Journal of Business Research.
+- 
+- 
+- 
+- Hunt, R.A., []P. Manocha, D.M. Townsend, & J.J. Simpson. (2023). “Knowledge Problem Diagnosis and the Fate of Corporate Entrepreneurship Initiatives.” Journal of Business Venturing Insights.
+- 
+- 
+- 
+- Hunt, R.A., D.A. Lerner, S. Johnson, S. Badal, & M. Freeman. (2022).  “Cracks in the Wall: Entrepreneurial Action Theory and the Weakening Presumption of Intended Rationality.” Journal of Business Venturing.37(3), https://www.sciencedirect.com/science/article/pii/S0883902622000027
+- 
+- 
+- 
+- Stallkamp, M., R.A. Hunt & A. Schotter. (2022). “Scaling, Fast and Slow:  The Internationalization of Digital Ventures.” Journal of Business Research. 146, 95-106.
+- 
+- 
+- 
+- Hunt, R.A., M.L.A. Hayward, Y. Song, M. Stallkamp & D.M. Townsend, (2022). “Getting a Foot in the Door: Trade Credit Strategies and the Pursuit of Entrepreneurial Internationalisation.” International Small Business Journal. Forthcoming. https://journals.sagepub.com/doi/full/10.1177/02662426221078940
+- 
+- 
+- 
+- Hunt, R.A., D.A. Lerner, and []A.J. Ortiz-Hunt. (2022) “Lassie Shrugged. The Premise and Importance of Considering Non-Human Entrepreneurial Action.” Journal of Business Venturing Insights. 17: e00298    https://www.sciencedirect.com/science/article/abs/pii/S2352673421000767
+- 
+- 
+- 
+- Mitchell, R., R. Mitchell, R.A. Hunt, D. M. Townsend and J.H. Lee.  (2022). “Stakeholder Engagement, Knowledge Problems and Ethical Challenges.” Journal of Business Ethics. 175: 75–94.
+- 
+- 
+- 
+- Kiefer, K., J. Miller, and R.A. Hunt. (2022). “Multi-Level Considerations in Executive Organizational Transfer.” Human Resource Management Review. 32(1).
+- 
+- 
+- 
+- van Lent, W., R.A. Hunt, & D.A. Lerner. (2021) “Back to Which Future? Recalibrating the Time-Calibrated Narratives of Entrepreneurial Action.” Academy of Management Review.
+- 
+- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2021)
+- 
+- 
+- 
+- *[]Asgari, E., *R.A. Hunt, D.M. Townsend, D.A. Lerner, & M.L.A. Hayward. (2021) “Red Giants or Black Holes? The Antecedent Conditions and Multi-Level Impacts of Star Performers.” Academy of Management Annals. 15(1): 223-265. * Equal contribution
+- 
+- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2021)
+- 
+- 
+- 
+- Hunt, R.A., []Y. Song, D.M. Townsend, & M. Stallkamp. (2021) “Internationalization of Entrepreneurial Firms: Leveraging Real Options Reasoning through Affordable Loss Logics.” Journal of Business Research. 133:194-207.
+- 
+- 
+- 
+- Hayward, M.L.A., R.A. Hunt & D. Miller. (2021). “How Vulnerability Enriches Family Firm Relationships: A Social Exchange Perspective.” Journal of Family Business Strategy. 13(1): #100450.
+- 
+- 
+- 
+- Hunt, R.A. (2021). “Entrepreneurial Orientation and the Fate of Corporate Acquisitions.” Journal of Business Research.  122 (1), 241-255.
+- 
+- 
+- 
+- []Manocha, P., R.A. Hunt, D.M. Townsend, and M. Stallkamp. (2021). “When Rising Tides Lift Some Boats More than Others: Gender-Based Differences in the External Enablement of Entrepreneurship.” Journal of Developmental Entrepreneurship. 26(3). https://doi.org/10.1142/S1084946721500175
+- 
+- 
+- 
+- Hunt, R.A., D.M. Townsend, S. Korsgaard and []A. Naar.  (2021). “Urban Farmers and Cowboy Coders: Re-Imagining Rural Venturing in the 21st Century.” Academy of Management Perspectives. 35(4). https://doi.org/10.5465/amp.2017.0157
+- 
+- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2020)
+- 
+- 
+- 
+- *Chen, J.J., *C. Cui, *R.A. Hunt, & *L.S. Li. (2020). “External Enablement of New Venture Creation: An Exploratory, Query-Driven Assessment of China's High-Speed Rail Expansion.” Journal of Business Venturing. 36(6).  * Equal contribution
+- 
+- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2020)
+- 
+- 
+- 
+- Korsgaard, S., R.A. Hunt, D.M. Townsend and M. Ingstrup. (2020). “Covid-19 and the Importance of Space in Entrepreneurship Research and Policy.” International Small Business Journal. 38(8), 697-710.
+- 
+- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2020)
+- 
+- 
+- 
+- Hunt, R.A., D. Lerner and D.M. Townsend. (2019). “Parental Endowments versus Business Acumen: Assessing the Fate of Low-Tech, Service-Sector Spinouts.” Strategic Entrepreneurship Journal, 13(4) 478-506.
+- 
+- 
+- 
+- Townsend, D. and R.A. Hunt. (2019). “Entrepreneurial Action, Creativity, and Judgment in the Age of Artificial Intelligence.” Journal of Business Venturing Insights. 11, e00126.
+- 
+- 
+- 
+- Hunt, R.A., D. Townsend, []E. Asgari. and D. Lerner. (2019). “Bringing It All Back Home: Corporate Venturing and Renewal through Spin-Ins.” Entrepreneurship Theory & Practice, 43(6): 1166-1193.
+- 
+- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2019)
+- 
+- 
+- 
+- Hunt, R.A. and M.L.A. Hayward. (2018). "Value Creation through Employer Loans: Evidence of Informal Lending to Employees at Small, Labor-Intensive Firms." Organization Science. 29(2): 284–303.
+- 
+- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2018)
+- 
+- 
+- 
+- Townsend, D.M., R.A. Hunt, J. McMullen and S. Sarasvathy. (2018). “Uncertainty, Knowledge Problems, and Entrepreneurial Action”. Academy of Management Annals. 12(2):1-29.
+- 
+- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2018)
+- 
+- 
+- 
+- *Lerner, D.A., *R.A. Hunt, and D. Dimov. (2018). “Action! Moving Beyond the Intendedly-Rational Logics of Entrepreneurship.” Journal of Business Venturing. 33(1): 52-69.   *equal contribution
+- 
+- Entrepreneurship Theory & Practice Best Conceptual Paper Award – ENT Div., AoM Atlanta (2017)
+- 
+- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2018)
+- 
+- 
+- 
+- Hunt, R.A. and D.A. Lerner. (2018). “Entrepreneurial Action as Human Action: Sometimes Judgment-driven, Sometimes Not.” Journal of Business Venturing Insights 10(2): e00102.
+- 
+- 
+- 
+- *Hunt, R.A., *D.A. Lerner, and I. Verheul. (2018). “Dueling Banjos: Harmony and Discord between ADHD and Entrepreneurship.” Academy of Management Perspectives. 32(2): 266-286. *equal contribution
+- 
+- 
+- 
+- Hunt, R.A. (2018) “An Opportunity Space Odyssey: Historical Exploration of Demand-Driven Entrepreneurial Innovation.” European Journal of Innovation Management. 21(2): 250-273.
+- 
+- Awarded Emerald Group’s 2019 Literati Prize for best article on Innovation or Entrepreneurship
+- 
+- 
+- 
+- Hunt, R.A. and K. Kiefer. (2017) “The Entrepreneurship Industry: Influences of the Goods and Services Marketed to Entrepreneurs.” Journal of Small Business Management. 55(S1): 231-255
+- 
+- 
+- 
+- Hunt, R.A. and []L.L. Ortiz-Hunt. (2017) “Entrepreneurial Round Tripping: The Benefits of Newness and Smallness in Multi-Directional Value Creation”. Management Decision, 55(3): 491-511.
+- 
+- 
+- 
+- Hunt, R.A. and B.R. Fund. (2016) “Intergenerational Fairness and the Crowding Out Effects of Well-Intended Environmental Policy.”  Journal of Management Studies, 53(5): 878-910.
+- 
+- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2016)
+- 
+- BCERC/Journal of Small Business Management Best Paper Award on Public Policy (2015)
+- 
+- Best Paper Prize – Sustainability, Ethics & Entrepreneurship Conference (2014)
+- 
+- 
+- 
+- Hunt, R.A. (2015) “Contagion Entrepreneurship: Institutional Support, Strategic Incoherence and the Social Costs of Over-Entry.” Journal of Small Business Management. 53(10): 5 - 29.
+- 
+- 
+- 
+- Hunt, R.A. (2013) “Entrepreneurial Tweaking: Technology Diffusion through Secondary Inventions and Design Modifications by Start-Ups.” European Journal of Innovation Management, 16 (2): 148 – 170.
+- 
+- Awarded Emerald Group’s 2013 Literati Prize for best article on Innovation or Entrepreneurship
+- 
+- 
+- 
+- Hunt, R.A. and B.R. Fund. (2012) “Reassessing the Practical and Theoretical Influence of Entrepreneurship Through Acquisition.” Journal of Entrepreneurial Finance, 16 (1): 29 - 56.
+- 
+- 
+- 
+- 
+- 
+
+Conferences:
+- 
+- 
+- 
+- Hunt, R.A. and E. Asgari. (2023). “The Aims, Actions, and Legacies of Serial Versus Portfolio Entrepreneurs: The Role of Identity and a Sense of Giving Back” Full Paper published in Frontiers of Entrepreneurship Research, Vol. 43.
+- 
+- 
+- 
+- Manocha, P., R.A. Hunt, and D.M. Townsend. (2023). “Temporal Dimensions of Artificial Intelligence as an External Enabler of Entrepreneurial Action” Full Paper published in Frontiers of Entrepreneurship Research, Vol. 43.
+- 
+- 
+- 
+- Hong, M., E. Asgari, & R.A. Hunt (2023) “Star Employees: Conceptualization, Scale Development, and Measurement Validation.” Best Paper Proceedings of the Eighty-third Annual Meeting of the Academy of Management.
+- 
+- 
+- 
+- []Manocha, P. and R.A. Hunt. (2022) “Knowledge Problems: Fault lines in the External Enablement of Entrepreneurial Action?” Initial Submission at Journal of Business Venturing. Best Paper Proceedings of the Eighty-second Annual Meeting of the Academy of Management. Online ISSN: 2151-6561.
+- 
+- 
+- 
+- Hunt, R.A., K. Kiefer, P. Manocha, and D.M. Townsend. (2022). “Game Change: Exploring the Impact of Name, Image and Likeness Rule Changes on NCAA Student-Athlete Entrepreneurial Opportunity Pursuit.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 42.
+- 
+- 
+- 
+- Townsend, D., []J-H Jin, and R.A. Hunt (2022). “Winter is Coming: Entrepreneurial Strategy in the Age of Artificial Intelligence.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 42.
+- 
+- 
+- 
+- Townsend, D.M., R.A. Hunt and []J-H Jin. (2022). “The Limits of Lean: Knowledge Problems, Entrepreneurial Strategy, and the Search for Product-market Fit.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 42.
+- 
+- 
+- 
+- Hunt, R.A. and D.M. Townsend. (2021). “Knowledge Problem Diagnosis and the Fate of Corporate Entrepreneurship Initiatives” Full Paper published in Frontiers of Entrepreneurship Research, Vol. 41.
+- 
+- 
+- 
+- []Yan, J., D. Williams, and R.A. Hunt. (2020). Exploring he Unknown Requires Leveraging Uncertainty: A Real Options Perspective on the Pattern and Process of Entrepreneurial Firms’ Internationalization. Full Paper published in Frontiers of Entrepreneurship Research, Volume 40.
+- 
+- 
+- 
+- Hunt, R.A. and D.M. Townsend. (2020). “Barriers on the Road to Commensurability: The Impact of Binary Oppositions and Ceremonial Citations on Knowledge Accumulation in Entrepreneurship Research.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 40.
+- 
+- 
+- 
+- []Yan, J., D. Williams, and R.A. Hunt. (2020). A Real Options Perspective on the Pattern and Process of Entrepreneurial Firms Internationalization. Full Paper published in Frontiers of Entrepreneurship Research, Volume 40.
+- 
+- 
+- 
+- []Ortiz-Hunt, A.B., R.A. Hunt, and D.A. Lerner. (2019). “Sustainable human healthcare: The centrality of intrapreneurial nurses.” In Guclu Atinc (Ed.), Best Paper Proceedings of the Seventy-ninth Annual Meeting of the Academy of Management. Online ISSN: 2151-6561.
+- 
+- 
+- []Jin, J.H., D.M. Townsend, and R.A. Hunt. The Limits of Lean: Knowledge Problems, Entrepreneurial Strategy, and the Search for Product-Market Fit. Strategic Management Conference. London, Sept 2022.
+- 
+- Finalist for Strategic Management Society 2022 Best Conference Paper Award
+- 
+- 
+- 
+- Hunt, R.A., K. Kiefer, and []P. Manocha. Experts and Expos and Shark Tanks (Oh My!): Managing the Influence of the Entrepreneurship Industry. Academy of Management Annual Conference. Seattle, Aug 2022.
+- 
+- 
+- 
+- Hunt, R.A. and E. Asgari. Assessing the Crowding-Out Effects of Star Performers. Academy of Management Annual Conference. Seattle, Aug 2022.
+- 
+- 
+- 
+- Simpson, J.J., R.A. Hunt, D.M. Townsend and M. Stallkamp. Corporate Entrepreneurship in Perilous Times: Striking a Balance between EO and FSO. Academy of Management Annual Conference. Seattle, Aug 2022.
+- 
+- 
+- 
+- []Manocha, P., R.A. Hunt. Mechanisms: The “Missing Link” in Understanding Gender Differences in Entrepreneurial Action Conference on Transitional Entrepreneurship, ODU, 2022.
+- 
+- 
+- 
+- []Vanderwal, B., R.A. Hunt. Yesterday’s War, Today’s Hidden Battle: PTSD’s Influence on Veteran Entrepreneurship. Conference on Transitional Entrepreneurship, ODU, 2022.
+- 
+- 
+- 
+- []Manocha, P., R.A. Hunt. Gender-Based Differences Among Entrepreneurs in the Activation of Key Mechanisms: Evidence from Bankruptcy Law Changes. Conference on Transitional Entrepreneurship, ODU, 2022.
+- 
+- 
+- 
+- Hunt, R.A., K. Kiefer, []P. Manocha, and D.M. Townsend. “Game Change: Exploring the Impact of Name, Image and Likeness Rule Changes on NCAA Student-Athlete Entrepreneurial Opportunity Pursuit.” Babson College Entrepreneurship Research Conference. Waco, June 2022.
+- 
+- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research, Volume 42.
+- 
+- 
+- 
+- Townsend, D.M., []J-H Jin, and R.A. Hunt. “Winter is Coming: Entrepreneurial Strategy in the Age of Artificial Intelligence.” Babson College Entrepreneurship Research Conference. Waco, June 2022.
+- 
+- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research, Volume 42.
+- 
+- 
+- 
+- Townsend, D.M., R.A. Hunt and []J-H Jin. “The Limits of Lean: Knowledge Problems, Entrepreneurial Strategy, and the Search for Product-market Fit.” Babson College Entrepreneurship Research Conference. Waco, June 2022.
+- 
+- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research, Volume 42.
+- 
+- 
+- 
+- Simpson, J.J., R.A. Hunt, D.M. Townsend and M. Stallkamp. Firm Security Orientation: Strategic Adaptations in a Discordant World. Strategic Management Conference. Toronto - Virtual, Sept 2021.
+- 
+- Finalist for Strategic Management Society 2021 Best Conference Paper Award
+- 
+- 
+- 
+- []Jin, J.H., D.M. Townsend, and R.A. Hunt. Adaptive vs Procedural Rationality: A Meta-analysis of the Contingent Roles of Knowledge, Uncertainty, & Entrepreneurial Strategy. Strategic Management Conference. Toronto - Virtual, Sept 2021.
+- 
+- 
+- 
+- Townsend, D. and R.A. Hunt. Are futures computable? Knightian uncertainty & artificial intelligence. Academy of Management Annual Conference. Virtual Conference, Aug 2021.
+- 
+- Entrepreneurship Theory & Practice 2021 Best Conceptual Paper Award
+- 
+- 
+- 
+- Hunt, R.A., and D.M. Townsend.  Manipulating Time: Temporal Agency and Entrepreneurial Action. Academy of Management Annual Conference. Virtual Conference, Aug 2021.
+- 
+- 
+- 
+- Simpson, J.J., R.A. Hunt, D.M. Townsend and M. Stallkamp. Firm Security Orientation: Strategically Responding to an Increasingly Disruptive World. Academy of Management Annual Conference. Virtual Conference, Aug 2021.
+- 
+- 
+- 
+- []Manocha, P., R.A. Hunt, D.M. Townsend, and M. Stallkamp. Nudge! Does critical mass leads to momentum in women entrepreneurship? Colloquium on Transitional Entrepreneurship, ODU, 2021.
+- 
+- 
+- 
+- Crabbe, R., D.M. Townsend, R.A. Hunt, & []M. Grant. Peril, Paradox, & Promise: A Multi-Disciplinary Review & Future Research Agenda for Black Entrepreneurship. Colloquium on Transitional Entrepreneurship, ODU, 2021.
+- 
+- 
+- 
+- Hunt, R.A., D.M. Townsend and J-H. Jin. Knowledge Problem Diagnosis and the Fate of Corporate Entrepreneurship Initiatives. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
+- 
+- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research
+- 
+- 
+- 
+- Asgari, E. and R.A. Hunt. A Contingency Approach to Stars’ Impact on Corporate Entrepreneurship. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
+- 
+- 
+- 
+- []Ortiz-Hunt, A.J., R.A. Hunt and D.A. Lerner. Assessing and Remedying Survivorship Bias in Entrepreneurship Research. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
+- 
+- 
+- 
+- []Manocha, P., R.A. Hunt and M. Stallkamp. Enabling the Periphery? Covid-19 and the Changing Landscape of Entrepreneurship. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
+- 
+- 
+- 
+- Townsend, D. and R.A. Hunt. Are futures computable? Knightian uncertainty & artificial intelligence. Gothenburg Symposium on Entrepreneurship and Design, Feb 2021.
+- 
+- 
+- 
+- Townsend, D.M., R.A. Hunt, D. Beal and J-H. Jin. Venturing into the Unknown: A Meta-Analytic Assessment of Uncertainty in Entrepreneurship Research. Strategic Management Society Virtual Conference. Sept 2020.
+- 
+- 
+- 
+- []Ortiz-Hunt, A.J., R.A. Hunt and D.A. Lerner. “Do Non-Humans Engage in Entrepreneurial Action? Inquiry into Entrepreneurship’s Socio-Biological Roots” Academy of Management Annual Conference. Virtual Conference, Aug 2020.
+- 
+- 
+- 
+- Hunt, R.A. “A-Rational, Non-deliberative Sources of Variation.  Adaptive Entrepreneurial Action: Current Thinking and Future Research Directions.”  Academy of Management Annual Conference. Virtual Conference, Aug 2020.
+- 
+- Selected as a Live “Showcase Symposium” for ENT and OMT Divisions
+- 
+- 
+- 
+- Townsend, D., R.A. Hunt, D. Beal, and []J.H. Jin. “Venturing into the Unknown: A Meta-Analytic Assessment of Uncertainty in Entrepreneurship Research”. Academy of Management Annual Conference. Virtual Conference, Aug 2020.
+- 
+- 
+- 
+- []Yan, J., D. Williams, and R.A. Hunt. “A Real Options Reasoning Perspective on Uncertainty in Entrepreneurs' Internationalization Decisions.” Academy of Management Annual Conference. Virtual Conference, Aug 2020.
+- 
+- 
+- 
+- Hunt, R.A., Hayward, M.L.A. and Y. Song. "Getting a Foot in the Door: Trade Credits, Referrals, and the Internationalization of Entrepreneurial Firms." Academy of International Business. Miami, FL. Virtual Conference, July 2020.
+- 
+- 
+- 
+- []Yan, J., D. Williams, and R.A. Hunt. "A Real Options Perspective on Pattern, Process, and Outcome of Firms’ Entrepreneurial Internationalization." Academy of International Business. Virtual Conference, July 2020.
+- 
+- 
+- 
+- Hunt, R.A., and D.M. Townsend. “Barriers on the Road to Commensurability: The Impact of Binary Oppositions and Ceremonial Citations on Knowledge Accumulation in Entrepreneurship Research”. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2020.
+- 
+- Full Paper selected as one of forty to be Published in Frontiers of Entrepreneurship Research
+- 
+- 
+- 
+- []Yan, J., D. Williams, and R.A. Hunt. “Exploring the Unknown Requires Leveraging Uncertainty: A Real Options Perspective on the Pattern and Process of Entrepreneurial Firms Internationalization”. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2020.
+- 
+- Full Paper selected as one of forty to be Published in Frontiers of Entrepreneurship Research
+- 
+- 
+- 
+- Townsend, D., R.A. Hunt and A. Joshi. “Muddying the Waters: Induced Equivocality as a Strategic Response to Deinstitutionalization Processes.” Strategic Management Society Conference. Minneapolis, MN, USA. Sept 2019.
+- 
+- 
+- 
+- []Ortiz-Hunt, A.B., R.A. Hunt, and D.A. Lerner. “Sustainable human healthcare: The centrality of intrapreneurial nurses.” Academy of Management Annual Conference. Boston, MA, Aug 2019.
+- 
+- Selected for Academy of Management 2019 Best Paper Proceedings
+- 
+
+Book Chapters:
+- 
+- 
+- 
+- Hunt, R.A., D.M. Townsend, and []P. Manocha. (2022) “Entrepreneurial Action Theory and the Uncertainty-bearing Thesis of Entrepreneurial Action in the Age of Artificial Intelligence.” In B. Ozkazanc-Pan (ed.) Modern Classics in Entrepreneurship Studies. Palgrave-McMillan.
+- 
+- 
+- 
+- []Saleh, S.H. and R.A. Hunt. (2020), "The Role of Heuristics and Biases in Entrepreneurial Decision-making When Creativity is a Necessity", Caputo, A. and Pellegrini, M. (Ed.) The Entrepreneurial Behaviour: Unveiling the Cognitive and Emotional Aspect of Entrepreneurship (Entrepreneurial Behaviour Series), Emerald Publishing Limited, pp. 191-212.
+- 
+- 
+- 
+- Townsend, D. and R.A. Hunt. (2019) “Crowdfunding and the Digitization of Early-Stage Finance: Opportunities and Challenges for Entrepreneurial Ventures”. In A. Parhankangas (ed.) Handbook of Research on Crowdfunding. New York: Routledge.
+- 
+- 
+- 
+- Hunt, R.A. and []L.L. Ortiz-Hunt. (2018) “Deinstitutionalization Through Business Model Evolution: Women Entrepreneurs in the Middle East and North Africa.” In L. Mura (ed.)  Entrepreneurship - Development Tendencies and Empirical Approach. Rijeka, Croatia: InTech.
+- 
+- Winner of the Ford Foundation “Empowering Women” Award
+- 
+- 
+- 
+- Kiefer, K. and R.A. Hunt. (2017) “Whose Hype Matters? The Battle for Value Creation in Contemporary Financial Communications.” In A. Laskin (ed.), Handbook of Financial Communication and Investor Relations. New York: Wiley.
+- 
+- 
+- 
+- Hunt, R.A., and []L.L. Ortiz-Hunt. (2017) “Steam Ships on the Western Waterways: Managing the Challenge of Multi-Directional Value Creation.” In M. Paulo (ed.) Innovating Entrepreneurs: An Historical Approach.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
