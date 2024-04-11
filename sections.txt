@@ -1,186 +1,238 @@
-Header: Peer Reviewed Publications, Type: Publication
-Header: Peer Reviewed Proceedings, Type: Conference
+Header: PUBLICATIONS, Type: Publication
 Header: Book Chapters, Type: Book Chapter
-Header: Conference Papers – Peer Reviewed, Type: Conference
+Header: Published Conference Proceedings, Type: Conference
+Header: Other Publications, Type: Publication
+Header: CONFERENCE PRESENTATIONS, Type: Conference
 Publications:
 - 
+- * Indicates current/former Ph.D. students whose dissertations I have chaired/co-chaired
 - 
+- Authorship is by contribution unless stated otherwise
 - 
-- Townsend, D.M., Hunt, R.A, [] J. Rady, [] P. Manocha & [] J-Y Jin. (2023). “Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence.”  Academy of Management Review.
 - 
 - 
+- Referred Journal Articles
 - 
-- Hunt, R.A., Townsend, D.M., Lerner, D.A. & Brownell, K. (2023) Pivot or Perish? Knowledge Problems and the Limits to “Entrepreneur-as-Scientist.” Journal of Business Venturing Insights.
 - 
 - 
+- *Song, Y., Gnyawali, D.R., and Qian, L. 2024. From Early Curiosity to Space Wide Web: The Emergence of the Small Satellite Innovation Ecosystem. Forthcoming, Research Policy, 53.
 - 
-- Bort, J., J. Wiklund, D. Lerner, C. Crawford & R.A. Hunt. (2023). “The Strategic Advantage of Impulsivity in Entrepreneurial Action: An Agent-Based Modeling Approach.” Entrepreneurship Theory & Practice.
 - 
 - 
+- Rai, R., Gnyawali, D.R., & Bhatt, H. 2023. Walking the Tightrope: Coopetition Capability Construct and its Role in Value Creation. Journal of Management, 49, 7: 2354-2386.
 - 
-- []Manocha, P., R.A. Hunt, D.M. Townsend, and M. Stallkamp. (2023). “A Tale of Two Impacts: Entrepreneurial Action and the Gender-Related Effects of Policy Uncertainty” Journal of Business Venturing Insights.
 - 
 - 
+- Ryan-Charleton, T. and Gnyawali, D.R. In-Press. ‘Value Creation Tension in Coopetition: Virtuous Cycles and Vicious Cycles. Strategic Management Review, Forthcoming in 2025 (Vol 6, Number 1).
 - 
-- Van Lent, W., R.A. Hunt & D.A. Lerner. (2023). “Historiography and the Excavation of Nascent Business Venturing.”  Small Business Economics.
 - 
 - 
+- Ryan Charleton, T. Gnyawali, D.R., & Oliveria, N. 2022. “Strategic Alliance Outcomes: Consolidation and New Directions.” Academy of Management Annals, 16:2: 719-758.
 - 
-- [] Schwarte, Y., Y. Song, R.A. Hunt & F. Lohrke. (2023). “Passion as Process: Three Perspectives on Entrepreneurial Passion and an Integrated Path Forward.” Journal of Business Research.
 - 
 - 
+- Raza-Ullah, T., Bengtsson, M., & Gnyawali, DR. (2020). The nature, consequences, and management of emotions in interfirm paradoxical relationships—A conceptual framework. Scandinavian Journal of Management, 36 (4): 101-127.
 - 
-- Hunt, R.A., []P. Manocha, D.M. Townsend, & J.J. Simpson. (2023). “Knowledge Problem Diagnosis and the Fate of Corporate Entrepreneurship Initiatives.” Journal of Business Venturing Insights.
 - 
 - 
+- Czakon, W. *Srivastava, M.K., Le Roy, F. Gnyawali, D.R. 2020. Coopetition Strategies: Critical Issues and Research Directions. Long Range Planning, volume 53 (1) hal-02517434.
 - 
-- Hunt, R.A., D.A. Lerner, S. Johnson, S. Badal, & M. Freeman. (2022).  “Cracks in the Wall: Entrepreneurial Action Theory and the Weakening Presumption of Intended Rationality.” Journal of Business Venturing.37(3), https://www.sciencedirect.com/science/article/pii/S0883902622000027
 - 
 - 
+- Gnyawali, D. R., & Ryan Charleton, T. 2018. Nuances in the Interplay of Competition and Cooperation: Towards a Theory of Coopetition. Journal of Management, 44: 2511-2535.
 - 
-- Stallkamp, M., R.A. Hunt & A. Schotter. (2022). “Scaling, Fast and Slow:  The Internationalization of Digital Ventures.” Journal of Business Research. 146, 95-106.
 - 
 - 
+- *Song, Y., Gnyawali, D. R., *Srivastava, M. K., & *Asgari, E. 2018. In Search of Precision in Absorptive Capacity Research: A Synthesis of the Literature and Consolidation of Findings. Journal of Management, 44(6), 2343-2374.
 - 
-- Hunt, R.A., M.L.A. Hayward, Y. Song, M. Stallkamp & D.M. Townsend, (2022). “Getting a Foot in the Door: Trade Credit Strategies and the Pursuit of Entrepreneurial Internationalisation.” International Small Business Journal. Forthcoming. https://journals.sagepub.com/doi/full/10.1177/02662426221078940
 - 
 - 
+- Gnyawali, D. R. and *Song, Y. 2016. Pursuit of Rigor in Research: Illustration from the Coopetition Literature. Industrial Marketing Management, 57: 12-22
 - 
-- Hunt, R.A., D.A. Lerner, and []A.J. Ortiz-Hunt. (2022) “Lassie Shrugged. The Premise and Importance of Considering Non-Human Entrepreneurial Action.” Journal of Business Venturing Insights. 17: e00298    https://www.sciencedirect.com/science/article/abs/pii/S2352673421000767
 - 
 - 
+- Sanou, F.H., Le Roy, F. and Gnyawali, D. R. 2016. “How Does Centrality in Coopetition Network Matter? Empirical Investigation in the Mobile Telephone Industry”. British Journal of Management, 27, 1: 143-160. DOI: 10.1111/1467-8551.12132
 - 
-- Mitchell, R., R. Mitchell, R.A. Hunt, D. M. Townsend and J.H. Lee.  (2022). “Stakeholder Engagement, Knowledge Problems and Ethical Challenges.” Journal of Business Ethics. 175: 75–94.
 - 
 - 
+- Gnyawali, D. R., Madhavan, R.M., He, J. and Bengtsson, M. 2016. “The Competition-Cooperation Paradox in Inter-Firm Relationships: A Conceptual Framework." Industrial Marketing Management, 53: 7-18. DOI: 10.1016/j.indmarman.2015.11.014
 - 
-- Kiefer, K., J. Miller, and R.A. Hunt. (2022). “Multi-Level Considerations in Executive Organizational Transfer.” Human Resource Management Review. 32(1).
 - 
 - 
+- *Srivastava, M.K., Gnyawali, D.R. & Hatfield, D.E. 2015. “Unpacking the Behavioral Aspects of Absorptive Capacity: Impact of Alliance Portfolio Resources on Innovation.” Technological Forecasting & Social Change, 92: 346-358.
 - 
-- van Lent, W., R.A. Hunt, & D.A. Lerner. (2021) “Back to Which Future? Recalibrating the Time-Calibrated Narratives of Entrepreneurial Action.” Academy of Management Review.
 - 
-- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2021)
 - 
+- *Park, B.J., *Srivastava, M. K. and Gnyawali, D. R. 2014. “Impact of Balanced Coopetition and Coopetition Experience on Firm Innovation”. Technology Analysis and Strategic Management, 26, 8: 893-907.
 - 
 - 
-- *[]Asgari, E., *R.A. Hunt, D.M. Townsend, D.A. Lerner, & M.L.A. Hayward. (2021) “Red Giants or Black Holes? The Antecedent Conditions and Multi-Level Impacts of Star Performers.” Academy of Management Annals. 15(1): 223-265. * Equal contribution
 - 
-- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2021)
+- *Park, B.J., *Srivastava, M.K. and Gnyawali, D. R. 2014. Walking the Tight Rope of Coopetition: Impact of Competition and Cooperation Intensities and Balance on Firm Innovation Performance. Industrial Marketing Management, 43: 210-221.
 - 
 - 
 - 
-- Hunt, R.A., []Y. Song, D.M. Townsend, & M. Stallkamp. (2021) “Internationalization of Entrepreneurial Firms: Leveraging Real Options Reasoning through Affordable Loss Logics.” Journal of Business Research. 133:194-207.
+- Fernandez, A.S., Le Roy, F., and Gnyawali, D. R. 2014. Sources and Management of Tension in Coopetition: Case Evidence from Telecommunications Satellites Manufacturing in Europe. Industrial Marketing Management, 43: 222-235.
 - 
 - 
 - 
-- Hayward, M.L.A., R.A. Hunt & D. Miller. (2021). “How Vulnerability Enriches Family Firm Relationships: A Social Exchange Perspective.” Journal of Family Business Strategy. 13(1): #100450.
+- Gnyawali, D. R. and *Srivastava, M. K. 2013. ”Complementary Effects of Clusters and Networks on Firm Innovation: A Conceptual Model.” Journal of Engineering and Technology Management, 30, 1: 1-20 (Lead Article).
 - 
 - 
 - 
-- Hunt, R.A. (2021). “Entrepreneurial Orientation and the Fate of Corporate Acquisitions.” Journal of Business Research.  122 (1), 241-255.
+- This paper received the Journal’s ”Highly Cited Paper” Recognition in 2016
 - 
 - 
 - 
-- []Manocha, P., R.A. Hunt, D.M. Townsend, and M. Stallkamp. (2021). “When Rising Tides Lift Some Boats More than Others: Gender-Based Differences in the External Enablement of Entrepreneurship.” Journal of Developmental Entrepreneurship. 26(3). https://doi.org/10.1142/S1084946721500175
+- Shrestha, B. and Gnyawali, D. R. (2014). ”Strategic Management in Nepal: Insights from Business and Non-Government Organizations.” South Asian Journal of Global Business Research, 2: 191-210 (Lead Research Article).
 - 
 - 
 - 
-- Hunt, R.A., D.M. Townsend, S. Korsgaard and []A. Naar.  (2021). “Urban Farmers and Cowboy Coders: Re-Imagining Rural Venturing in the 21st Century.” Academy of Management Perspectives. 35(4). https://doi.org/10.5465/amp.2017.0157
+- This paper received the Journal’s ”Highly Commended Paper” Award
 - 
-- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2020)
 - 
 - 
+- *Srivastava, M. K. and Gnyawali, D.R. 2011. “When Do Relational Resources Matter? Leveraging Portfolio Technological Resources for Breakthrough Innovation.” Academy of Management Journal, 54, 4: 797-810.
 - 
-- *Chen, J.J., *C. Cui, *R.A. Hunt, & *L.S. Li. (2020). “External Enablement of New Venture Creation: An Exploratory, Query-Driven Assessment of China's High-Speed Rail Expansion.” Journal of Business Venturing. 36(6).  * Equal contribution
 - 
-- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2020)
 - 
+- This paper received the Faculty Research Excellence Award (2012) from the Department of Management, Virginia Tech.
 - 
 - 
-- Korsgaard, S., R.A. Hunt, D.M. Townsend and M. Ingstrup. (2020). “Covid-19 and the Importance of Space in Entrepreneurship Research and Policy.” International Small Business Journal. 38(8), 697-710.
 - 
-- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2020)
+- Gnyawali, D.R. and *Park, B. J. 2011. “Co-opetition between Giants: Drivers and Consequences of Collaboration between Large Competitors.” Research Policy, 40: 650-663.
 - 
 - 
 - 
-- Hunt, R.A., D. Lerner and D.M. Townsend. (2019). “Parental Endowments versus Business Acumen: Assessing the Fate of Low-Tech, Service-Sector Spinouts.” Strategic Entrepreneurship Journal, 13(4) 478-506.
+- Gnyawali, D.R., Fan, W., & Penner, J. 2010. “Competitive Actions and Dynamics in the Digital Age: An Empirical Investigation of Social Networking Firms.” Information Systems Research, 21, 3: 594-613.
 - 
 - 
 - 
-- Townsend, D. and R.A. Hunt. (2019). “Entrepreneurial Action, Creativity, and Judgment in the Age of Artificial Intelligence.” Journal of Business Venturing Insights. 11, e00126.
+- This paper received the Faculty Research Excellence Award (2011) from the Department of Management, Virginia Tech.
 - 
 - 
 - 
-- Hunt, R.A., D. Townsend, []E. Asgari. and D. Lerner. (2019). “Bringing It All Back Home: Corporate Venturing and Renewal through Spin-Ins.” Entrepreneurship Theory & Practice, 43(6): 1166-1193.
+- Gnyawali, D. R. and *Park, B.J. 2009. “Co-opetition and Technological Innovation in Small and Medium Enterprises: A Multi-Level Conceptual Model.” Journal of Small Business Management, 47, 3: 308-330.
 - 
-- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2019)
 - 
 - 
+- This paper received the Warren Holtzman Research Award (2009) from the Department of Management, Virginia Tech.
 - 
-- Hunt, R.A. and M.L.A. Hayward. (2018). "Value Creation through Employer Loans: Evidence of Informal Lending to Employees at Small, Labor-Intensive Firms." Organization Science. 29(2): 284–303.
 - 
-- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2018)
 - 
+- Gnyawali, D. R. *Singal, M. and *Mu, S. 2009. “Knowledge Ties among Subsidiaries in MNCs: A Multi-level Conceptual Model.” Journal of International Management, 15, 4: 387-400.
 - 
 - 
-- Townsend, D.M., R.A. Hunt, J. McMullen and S. Sarasvathy. (2018). “Uncertainty, Knowledge Problems, and Entrepreneurial Action”. Academy of Management Annals. 12(2):1-29.
 - 
-- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2018)
+- Tyler, B. and Gnyawali, D. R. 2009. “Managerial Collective Cognitions: An Examination of Similarities and Differences of Cultural Orientations.” Journal of Management Studies, 46, 1: 93-126.
 - 
 - 
 - 
-- *Lerner, D.A., *R.A. Hunt, and D. Dimov. (2018). “Action! Moving Beyond the Intendedly-Rational Logics of Entrepreneurship.” Journal of Business Venturing. 33(1): 52-69.   *equal contribution
+- Gnyawali, D. R. *Offstein, E. H., Lau, R. 2008. “The Impact of the CEO Pay Gap on Firm Competitive Behavior.” Group & Organization Management, 33: 453-484.
 - 
-- Entrepreneurship Theory & Practice Best Conceptual Paper Award – ENT Div., AoM Atlanta (2017)
 - 
-- Virginia Tech Faculty Research Excellence Award – Virginia Tech (2018)
 - 
+- This paper received the Best Paper Award (2008, macro category) from Group & Organization Management.
 - 
 - 
-- Hunt, R.A. and D.A. Lerner. (2018). “Entrepreneurial Action as Human Action: Sometimes Judgment-driven, Sometimes Not.” Journal of Business Venturing Insights 10(2): e00102.
 - 
+- Bonsi, R., Gnyawali, D. R. and Hammett, A.L. 2008. “Achieving Sustained Competitive Advantage in the Forest Products Firm: The Importance of the Resource-Based View.” Journal of Forest Products Business Research, 5, 3: 1-14.
 - 
 - 
-- *Hunt, R.A., *D.A. Lerner, and I. Verheul. (2018). “Dueling Banjos: Harmony and Discord between ADHD and Entrepreneurship.” Academy of Management Perspectives. 32(2): 266-286. *equal contribution
 - 
+- *Mu, S., Gnyawali, D. R. and Hatfield, D.E. 2007. “Foreign Subsidiaries’ Learning from Local Environments: An Empirical Test.” Management International Review, 47, 1: 79-102.
 - 
 - 
-- Hunt, R.A. (2018) “An Opportunity Space Odyssey: Historical Exploration of Demand-Driven Entrepreneurial Innovation.” European Journal of Innovation Management. 21(2): 250-273.
 - 
-- Awarded Emerald Group’s 2019 Literati Prize for best article on Innovation or Entrepreneurship
+- Gnyawali, D. R., He, J. and Madhavan, R. 2006. “Impact of Co-opetition on Firm Competitive Behavior: An Empirical Examination”. Journal of Management, 32: 507-530.
 - 
 - 
 - 
-- Hunt, R.A. and K. Kiefer. (2017) “The Entrepreneurship Industry: Influences of the Goods and Services Marketed to Entrepreneurs.” Journal of Small Business Management. 55(S1): 231-255
+- This paper received the “Influential Work on Coopetition” Recognition from the Global Coopetition Research Network, 2014.
 - 
 - 
 - 
-- Hunt, R.A. and []L.L. Ortiz-Hunt. (2017) “Entrepreneurial Round Tripping: The Benefits of Newness and Smallness in Multi-Directional Value Creation”. Management Decision, 55(3): 491-511.
+- *Offstein, E. H. and Gnyawali, D. R. 2006. “A Humanistic Perspective on Firm Competitive Behavior”, Competitiveness Review, 16, 3/4: 248-261.
 - 
 - 
 - 
-- Hunt, R.A. and B.R. Fund. (2016) “Intergenerational Fairness and the Crowding Out Effects of Well-Intended Environmental Policy.”  Journal of Management Studies, 53(5): 878-910.
+- Gnyawali, D. R., Stewart, A., and Grant, J. 2005. “Differentiated Learning Processes for Enhancing Organizational Knowledge across Environmental Contexts.” International Journal of Organizational Analysis, 13, 3: 216-243.
 - 
-- Holtzman Prize for Faculty Research Excellence – Virginia Tech (2016)
 - 
-- BCERC/Journal of Small Business Management Best Paper Award on Public Policy (2015)
 - 
-- Best Paper Prize – Sustainability, Ethics & Entrepreneurship Conference (2014)
+- *Offstein, E. H., Gnyawali, D. R., and Cobb, A. T. 2005. “A Strategic Human Resource Perspective of Firm Competitive Behavior.” Human Resource Management Review, 15: 305-318.
 - 
 - 
 - 
-- Hunt, R.A. (2015) “Contagion Entrepreneurship: Institutional Support, Strategic Incoherence and the Social Costs of Over-Entry.” Journal of Small Business Management. 53(10): 5 - 29.
+- *Offstein, E. H. and Gnyawali, D. R. 2005. “Firm Competitive Behavior as a Determinant of CEO Pay: Empirical Evidence from the U.S. Pharmaceutical Industry.” Journal of Managerial Psychology, 20: 335-354.
 - 
 - 
 - 
-- Hunt, R.A. (2013) “Entrepreneurial Tweaking: Technology Diffusion through Secondary Inventions and Design Modifications by Start-Ups.” European Journal of Innovation Management, 16 (2): 148 – 170.
+- *Offstein, E. H. and Gnyawali, D. R. 2005. “CEO Compensation and Firm Competitive Behavior: Empirical Evidence from the U.S. Pharmaceutical Industry.” Journal of Engineering and Technology Management, 22, 3: 201-225.
 - 
-- Awarded Emerald Group’s 2013 Literati Prize for best article on Innovation or Entrepreneurship
 - 
 - 
+- Madhavan, R., Gnyawali, D.R., and He, J. 2004. “Two’s Company, Three’s A Crowd”? Triads in Cooperative-Competitive Networks. Academy of Management Journal, 47: 918-927.
 - 
-- Hunt, R.A. and B.R. Fund. (2012) “Reassessing the Practical and Theoretical Influence of Entrepreneurship Through Acquisition.” Journal of Entrepreneurial Finance, 16 (1): 29 - 56.
+- 
+- 
+- This paper received the Faculty Research Award (2005) from the Department of Management, Virginia Tech.
+- 
+- 
+- 
+- *Mu, S. & Gnyawali, D. R. 2003. "Developing Synergistic Knowledge in Student Groups.”   Journal of Higher Education, 74: 689-711.
+- 
+- 
+- 
+- Gnyawali, D. R. & Stewart, A. C. 2003. "A Contingency Perspective on Organizational Learning: Integrating Environmental Context, Organizational Learning Processes, and Types of Learning." Management Learning, 34, 1: 63-89.
+- 
+- 
+- 
+- Tyler, B. B. & Gnyawali, D. R. 2002. “Mapping Managers’ Market Orientations Regarding New Product Success.” Journal of Product Innovation Management, 19, 4: 259-276.
+- 
+- 
+- 
+- Gnyawali, D. R. & Madhavan, R. 2001. "Cooperative Networks and Competitive Dynamics: A Structural Embeddedness Perspective.” Academy of Management Review, 26: 431-445.
+- 
+- 
+- 
+- This paper was runner-up for the Best Paper Award (2001) from Academy of Management Review.
+- 
+- 
+- 
+- Gnyawali, D. R. & Grant, J. H. 1997. “Enhancing Corporate Venture Performance through Organizational Learning.” International Journal of Organizational Analysis, 5, 1: 74-98.
+- 
+- 
+- 
+- Grant, J. H. & Gnyawali, D. R. 1996. "Strategic Process Improvement through Organizational Learning." Strategy & Leadership (formerly Planning Review), May-June: 28-33.
+- 
+- 
+- 
+- Gnyawali, D. R. 1996. “Corporate Social Performance: An International Perspective.” Advances in International Comparative Management, 11: 251-273.
+- 
+- 
+- 
+- Gnyawali, D. R. & Fogel, D. S. 1994. "Environments for Entrepreneurship Development: Key Dimensions and Research Implications." Entrepreneurship: Theory and Practice, 18, 4: 43-62.
+- 
+- 
+- 
+- Reprinted in Westhead, P. & Wright, M. 2000. (Eds.). Advances in Entrepreneurship, volume II, part III, 229-249. Gloucestershire, England: Edward Elgar Publishing.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Singal, M. and Gnyawali, D.R. 2016. “Strategy and Ethics”.  Forthcoming in Encyclopedia of Business Ethics and Society, Kolb, R.W. (Editor)., Sage publications, 2nd Edition.
+- 
+- 
+- 
+- Gnyawali, D. R. and *Offstein, E. H. 2008. “Human Capital”. Encyclopedia of Business Ethics and Society. Colb, R. W. (Editor). Sage Publications, pp. 1073-1076.
+- 
+- 
+- 
+- Gnyawali, D. R. and *Singal, M. 2008. “Strategy and Ethics”. Encyclopedia of Business Ethics and Society. Colb, R. W. (Editor). Sage Publications, pp. 2014-2018.
 - 
 - 
 - 
@@ -191,237 +243,495 @@ Conferences:
 - 
 - 
 - 
-- Hunt, R.A. and E. Asgari. (2023). “The Aims, Actions, and Legacies of Serial Versus Portfolio Entrepreneurs: The Role of Identity and a Sense of Giving Back” Full Paper published in Frontiers of Entrepreneurship Research, Vol. 43.
 - 
 - 
+- * Song, Y, Gnyawali, DR, and Qian, L. 2021. “From Early Curiosity to Space Wide Web: Emergence of the Small Satellite Innovation Ecosystem". Best Paper Proceedings, Academy of Management.
 - 
-- Manocha, P., R.A. Hunt, and D.M. Townsend. (2023). “Temporal Dimensions of Artificial Intelligence as an External Enabler of Entrepreneurial Action” Full Paper published in Frontiers of Entrepreneurship Research, Vol. 43.
 - 
 - 
+- Ritala, P., Stenroos, LA., & Gnyawali, DR. 2020. “Co-evolution of ecosystem value proposition across institutional fields: Longitudinal Case Study. Best Paper Proceedings, Academy of Management.
 - 
-- Hong, M., E. Asgari, & R.A. Hunt (2023) “Star Employees: Conceptualization, Scale Development, and Measurement Validation.” Best Paper Proceedings of the Eighty-third Annual Meeting of the Academy of Management.
 - 
 - 
+- *Srivastava, M. K., Gnyawali, D.R., and Tallman, S. 2010 “Differential Impact of Alliance and Cluster Technological Resources on Breakthrough Innovation.” Best Paper Proceedings, Academy of Management.
 - 
-- []Manocha, P. and R.A. Hunt. (2022) “Knowledge Problems: Fault lines in the External Enablement of Entrepreneurial Action?” Initial Submission at Journal of Business Venturing. Best Paper Proceedings of the Eighty-second Annual Meeting of the Academy of Management. Online ISSN: 2151-6561.
 - 
 - 
+- Gnyawali, D. R. *Singal, M. and *Mu, S. 2007. “Inter-Subsidiary Collaboration for Knowledge: A Conceptual Model.” Best Paper Proceedings, Academy of Management.
 - 
-- Hunt, R.A., K. Kiefer, P. Manocha, and D.M. Townsend. (2022). “Game Change: Exploring the Impact of Name, Image and Likeness Rule Changes on NCAA Student-Athlete Entrepreneurial Opportunity Pursuit.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 42.
 - 
 - 
+- *Mu, S. & Gnyawali, D. R. 2000. "Synergistic Knowledge Development in Cross-Major Student Groups: An Empirical Examination." Best Paper Proceedings, Academy of Management, C1-C6.
 - 
-- Townsend, D., []J-H Jin, and R.A. Hunt (2022). “Winter is Coming: Entrepreneurial Strategy in the Age of Artificial Intelligence.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 42.
 - 
 - 
+- This paper received the MED Division’s Best Paper Award (2000).
 - 
-- Townsend, D.M., R.A. Hunt and []J-H Jin. (2022). “The Limits of Lean: Knowledge Problems, Entrepreneurial Strategy, and the Search for Product-market Fit.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 42.
 - 
 - 
+- Gnyawali, D. R., Stewart, A. C., & Grant, J. H. 1997. “Creation and Utilization of Organizational Knowledge: An Empirical Study of the Effects of Organizational Learning on Strategic Decision Making.” Best Paper Proceedings, Academy of Management, 16-20.
 - 
-- Hunt, R.A. and D.M. Townsend. (2021). “Knowledge Problem Diagnosis and the Fate of Corporate Entrepreneurship Initiatives” Full Paper published in Frontiers of Entrepreneurship Research, Vol. 41.
 - 
 - 
+- * Offstein, E. H., & Gnyawali, D. R. 2004.  "A Humanistic Perspective of Firm Competitive Behavior.” Competition Forum, Proceedings of the American Society for Competitiveness.
 - 
-- []Yan, J., D. Williams, and R.A. Hunt. (2020). Exploring he Unknown Requires Leveraging Uncertainty: A Real Options Perspective on the Pattern and Process of Entrepreneurial Firms’ Internationalization. Full Paper published in Frontiers of Entrepreneurship Research, Volume 40.
 - 
 - 
+- Gnyawali, D. R. 1999. "Inter-Organizational Learning Dynamics: Roles of Networks on Knowledge Creation." Proceedings of the 3rd International Conference on Organizational Learning, 465-478. Lancaster University, Lancaster, UK.
 - 
-- Hunt, R.A. and D.M. Townsend. (2020). “Barriers on the Road to Commensurability: The Impact of Binary Oppositions and Ceremonial Citations on Knowledge Accumulation in Entrepreneurship Research.” Full Paper published in Frontiers of Entrepreneurship Research, Volume 40.
 - 
 - 
+- Sheetz, S. D., Tegarden, D. P., Tegarden, L. F., Poppo, L., & Gnyawali, D. R. 1999. "A WWW-Based Group Cognitive Mapping Approach to Support Case-Based Learning." Best Paper Proceedings of the Association for Information Systems, 148-150. Americas Conference on Information Systems (AMCIS), Milwaukee, WI.
 - 
-- []Yan, J., D. Williams, and R.A. Hunt. (2020). A Real Options Perspective on the Pattern and Process of Entrepreneurial Firms Internationalization. Full Paper published in Frontiers of Entrepreneurship Research, Volume 40.
 - 
 - 
+- Gnyawali, D. R. 1994. "Organizational Learning for Corporate Entrepreneurship: An Integrated Perspective." Managing for Our Future: Proceedings of the Thirty-First Annual Meeting, 167-170. Eastern Academy of Management, Albany, NY.
 - 
-- []Ortiz-Hunt, A.B., R.A. Hunt, and D.A. Lerner. (2019). “Sustainable human healthcare: The centrality of intrapreneurial nurses.” In Guclu Atinc (Ed.), Best Paper Proceedings of the Seventy-ninth Annual Meeting of the Academy of Management. Online ISSN: 2151-6561.
 - 
 - 
-- []Jin, J.H., D.M. Townsend, and R.A. Hunt. The Limits of Lean: Knowledge Problems, Entrepreneurial Strategy, and the Search for Product-Market Fit. Strategic Management Conference. London, Sept 2022.
 - 
-- Finalist for Strategic Management Society 2022 Best Conference Paper Award
 - 
 - 
 - 
-- Hunt, R.A., K. Kiefer, and []P. Manocha. Experts and Expos and Shark Tanks (Oh My!): Managing the Influence of the Entrepreneurship Industry. Academy of Management Annual Conference. Seattle, Aug 2022.
 - 
 - 
 - 
-- Hunt, R.A. and E. Asgari. Assessing the Crowding-Out Effects of Star Performers. Academy of Management Annual Conference. Seattle, Aug 2022.
+- Gnyawali, D.R. “Managing Interdependence in Strategic Alliances”. Presented at a Symposium at the 2023 International Conference of the Strategic Management Society, Toronto, Canada.
 - 
 - 
 - 
-- Simpson, J.J., R.A. Hunt, D.M. Townsend and M. Stallkamp. Corporate Entrepreneurship in Perilous Times: Striking a Balance between EO and FSO. Academy of Management Annual Conference. Seattle, Aug 2022.
+- Roehrich, J., Squire, B., Taubeneder, R., Tyler, B., & Gnyawali, D.R. 2023. “Managing Coopetition in a Multiparty Supplier Alliance”. 2023 Academy of Management Conference, Boston.
 - 
 - 
 - 
-- []Manocha, P., R.A. Hunt. Mechanisms: The “Missing Link” in Understanding Gender Differences in Entrepreneurial Action Conference on Transitional Entrepreneurship, ODU, 2022.
+- Gnyawali, D.R. & Oliveira, N. 2022. “Toward a Behavioral Theory of Partner Interdependence in Strategic Alliances.” Presented at the 2022 International Conference of the Strategic Management Society, London, England.
 - 
 - 
 - 
-- []Vanderwal, B., R.A. Hunt. Yesterday’s War, Today’s Hidden Battle: PTSD’s Influence on Veteran Entrepreneurship. Conference on Transitional Entrepreneurship, ODU, 2022.
+- Ryan Charleton, T. Gnyawali, D.R., and Oliveira, N. 2021.	“Integrating Strategic Alliance Outcomes and Illuminating the Frictions that Derail Them.”. 2021 Strategic Management Society International Conference, Toronto, Canada.
 - 
 - 
 - 
-- []Manocha, P., R.A. Hunt. Gender-Based Differences Among Entrepreneurs in the Activation of Key Mechanisms: Evidence from Bankruptcy Law Changes. Conference on Transitional Entrepreneurship, ODU, 2022.
+- * Song, Y, Gnyawali, DR, and Qian, L. 2021. “The Emergence and Evolution of the Small Satellite Innovation Ecosystem.” 2021 Strategic Management Society International Conference, Toronto, Canada.
 - 
 - 
 - 
-- Hunt, R.A., K. Kiefer, []P. Manocha, and D.M. Townsend. “Game Change: Exploring the Impact of Name, Image and Likeness Rule Changes on NCAA Student-Athlete Entrepreneurial Opportunity Pursuit.” Babson College Entrepreneurship Research Conference. Waco, June 2022.
+- Ryan Charleton, T. & Gnyawali, D.R. 2021. Value Creation and Tension in Coopetition: The Emergence of Virtuous and Vicious Cycles. 2021 Annual Meeting of the Academy of Management (Virtual Conference).
 - 
-- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research, Volume 42.
 - 
 - 
+- * Song, Y, Gnyawali, DR, and Qian, L. 2021. “From Early Curiosity to Space Wide Web: Emergence of the Small Satellite Innovation Ecosystem". 2021 Annual Meeting of the Academy of Management (Virtual Conference).
 - 
-- Townsend, D.M., []J-H Jin, and R.A. Hunt. “Winter is Coming: Entrepreneurial Strategy in the Age of Artificial Intelligence.” Babson College Entrepreneurship Research Conference. Waco, June 2022.
 - 
-- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research, Volume 42.
 - 
+- Ryan Charleton, T. & Gnyawali, D.R. 2020. “Value Creation and Value Capture in Strategic Alliances: Review, Integration and a Research Agenda.” Strategic Management Society International Conference, London.
 - 
 - 
-- Townsend, D.M., R.A. Hunt and []J-H Jin. “The Limits of Lean: Knowledge Problems, Entrepreneurial Strategy, and the Search for Product-market Fit.” Babson College Entrepreneurship Research Conference. Waco, June 2022.
 - 
-- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research, Volume 42.
+- Ritala, P., Stenroos, LA., & Gnyawali, DR. 2020. “Co-evolution of Ecosystem Value Proposition across Institutional Fields: Longitudinal Case Study. Academy of Management Conference, Vancouver, BC.
 - 
 - 
 - 
-- Simpson, J.J., R.A. Hunt, D.M. Townsend and M. Stallkamp. Firm Security Orientation: Strategic Adaptations in a Discordant World. Strategic Management Conference. Toronto - Virtual, Sept 2021.
+- * Song, Y, Gnyawali, DR, and Qian, L. 2020. “How Does the Innovation Ecosystem Influence Industry Evolution? Evidence from the Satellite Industry.” SMS Special Conference in Berkeley.
 - 
-- Finalist for Strategic Management Society 2021 Best Conference Paper Award
 - 
 - 
+- *Asgari, E., Gnyawali, D., & *Srivastava, M.K. 2019. “Novel Pursuits: The Interactive Role of CEO’s Scientific Knowledge and Scientist’s Business Knowledge.” Presented at the Academy of Management Annual Conference, Boston, MA.
 - 
-- []Jin, J.H., D.M. Townsend, and R.A. Hunt. Adaptive vs Procedural Rationality: A Meta-analysis of the Contingent Roles of Knowledge, Uncertainty, & Entrepreneurial Strategy. Strategic Management Conference. Toronto - Virtual, Sept 2021.
 - 
 - 
+- Raza-Ullah, T., Bengtsson, M. & Gnyawali, D. R. 2019. “Paradoxical Tension and Firm Performance: The Contingent Role of Coopetition Capability”. Presented at the Academy of Management Annual Conference, Boston, MA.
 - 
-- Townsend, D. and R.A. Hunt. Are futures computable? Knightian uncertainty & artificial intelligence. Academy of Management Annual Conference. Virtual Conference, Aug 2021.
 - 
-- Entrepreneurship Theory & Practice 2021 Best Conceptual Paper Award
 - 
+- Raza-Ullah, T., Bengtsson, M. & Gnyawali, D. R. 2019. “Dealing with the Dark Side of Coopetition”. Presented at the EURAM 2019 Conference Lisbon, Portugal.
 - 
 - 
-- Hunt, R.A., and D.M. Townsend.  Manipulating Time: Temporal Agency and Entrepreneurial Action. Academy of Management Annual Conference. Virtual Conference, Aug 2021.
 - 
+- This paper received the 2019 Best Paper Award from the Strategic Management Collaborative Strategies Track.
 - 
 - 
-- Simpson, J.J., R.A. Hunt, D.M. Townsend and M. Stallkamp. Firm Security Orientation: Strategically Responding to an Increasingly Disruptive World. Academy of Management Annual Conference. Virtual Conference, Aug 2021.
 - 
 - 
 - 
-- []Manocha, P., R.A. Hunt, D.M. Townsend, and M. Stallkamp. Nudge! Does critical mass leads to momentum in women entrepreneurship? Colloquium on Transitional Entrepreneurship, ODU, 2021.
+- Gnyawali, D.R. & Ryan Charleton, T. 2018. Unpacking Coopetition: Nuances of Simultaneity and Value Creation. Paper Presentation at the 2018 Academy of Management Conference, Chicago.
 - 
 - 
 - 
-- Crabbe, R., D.M. Townsend, R.A. Hunt, & []M. Grant. Peril, Paradox, & Promise: A Multi-Disciplinary Review & Future Research Agenda for Black Entrepreneurship. Colloquium on Transitional Entrepreneurship, ODU, 2021.
+- Ryan Charleton, T. & Gnyawali, D.R., 2018. “Divergence and Convergence of Coopetition Research: Bridging the Conversations and Shaping the Research Agenda. Paper Presentation at the 2018 Annual Conference of the European Academy of Management, Reykjavik, Iceland.
 - 
 - 
 - 
-- Hunt, R.A., D.M. Townsend and J-H. Jin. Knowledge Problem Diagnosis and the Fate of Corporate Entrepreneurship Initiatives. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
+- Gnyawali, D. R. 2018. “Exploring the Coopetition Paradox: Bridging Paradox and Coopetition Research”. Professional Development Workshop Presentation at the 2018 Academy of Management Conference, Chicago.
 - 
-- Full Paper selected as one of Forty to be Published in Frontiers of Entrepreneurship Research
 - 
 - 
+- Gnyawali, D. R. 2018. “Mechanisms for Value Creation in Coopetition”. Presentation at the Symposium titled The Role of Coopetition on Innovation, Value Creation and Value Capture. 2018 Academy of Management Conference, Chicago.
 - 
-- Asgari, E. and R.A. Hunt. A Contingency Approach to Stars’ Impact on Corporate Entrepreneurship. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
 - 
 - 
+- *Song, Y., Gnyawali, D.R., *Srivastava, M., *Asgari, E. 2017. “Role of Absorptive Capacity: Meta-Analysis Findings and Implications”. Presented at the kick-off session of the Strategic Management Track, European Academy of Management, Glasgow, UK.
 - 
-- []Ortiz-Hunt, A.J., R.A. Hunt and D.A. Lerner. Assessing and Remedying Survivorship Bias in Entrepreneurship Research. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
 - 
 - 
+- Bez, S. M., Le Roy, F., Dameron, S. & Gnyawali, D. R. 2017. “Unconventional Strategy: Why Enabling a Competitor can be Beneficial for Innovation”. 2017 conference of the Strategic Management Society, Houston, TX.
 - 
-- []Manocha, P., R.A. Hunt and M. Stallkamp. Enabling the Periphery? Covid-19 and the Changing Landscape of Entrepreneurship. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2021.
 - 
 - 
+- Gnyawali, D.R. and Ryan Charleton, T. 2017. “Divergence and Convergence of Coopetition Research: Bridging the Conversations and Shaping the Research Agenda”. Annual Meeting of the Academy of Management, Atlanta, GA.
 - 
-- Townsend, D. and R.A. Hunt. Are futures computable? Knightian uncertainty & artificial intelligence. Gothenburg Symposium on Entrepreneurship and Design, Feb 2021.
 - 
 - 
+- *Song, Y, and Gnyawali, D.R. 2017. “Innovation Choices in Emerging Industries” Annual Meeting of the Academy of Management, Atlanta, GA.
 - 
-- Townsend, D.M., R.A. Hunt, D. Beal and J-H. Jin. Venturing into the Unknown: A Meta-Analytic Assessment of Uncertainty in Entrepreneurship Research. Strategic Management Society Virtual Conference. Sept 2020.
 - 
 - 
+- *Song, Y, and Gnyawali, D.R. 2016. “The Absorptive Capacity Spectrum: An Investment, a Capability, and a Process Which Matters the Most?” Annual Meeting of the Academy of Management, Anaheim, CA.
 - 
-- []Ortiz-Hunt, A.J., R.A. Hunt and D.A. Lerner. “Do Non-Humans Engage in Entrepreneurial Action? Inquiry into Entrepreneurship’s Socio-Biological Roots” Academy of Management Annual Conference. Virtual Conference, Aug 2020.
 - 
 - 
+- *Srivastava, M. K., Gnyawali, D. R. and Tallman, S. 2016. “Firm Technological Capability, Geographic Cluster and Alliance Network Resources, and their Differential Effects on Firm Innovation.”  Presented at the 2016 Fourth Pan – IIM World Management Conference, India.
 - 
-- Hunt, R.A. “A-Rational, Non-deliberative Sources of Variation.  Adaptive Entrepreneurial Action: Current Thinking and Future Research Directions.”  Academy of Management Annual Conference. Virtual Conference, Aug 2020.
 - 
-- Selected as a Live “Showcase Symposium” for ENT and OMT Divisions
 - 
+- This paper received the Best Paper Award from the conference
 - 
 - 
-- Townsend, D., R.A. Hunt, D. Beal, and []J.H. Jin. “Venturing into the Unknown: A Meta-Analytic Assessment of Uncertainty in Entrepreneurship Research”. Academy of Management Annual Conference. Virtual Conference, Aug 2020.
 - 
+- Luo, Y. Gnyawali, DR, and Bu, J. 2016. “Co-opetition, capabilities, and environments: How do they work together in shaping firm performance?” Annual Meeting of the Academy of Management, Anaheim, CA.
 - 
 - 
-- []Yan, J., D. Williams, and R.A. Hunt. “A Real Options Reasoning Perspective on Uncertainty in Entrepreneurs' Internationalization Decisions.” Academy of Management Annual Conference. Virtual Conference, Aug 2020.
 - 
+- Bez, S.M., Le Roy, F. Dameron, S. and Gnyawali, D. R. 2016. “Open innovation between competitors.” 2nd World Open Innovation Conference, Barcelona, Spain.
 - 
 - 
-- Hunt, R.A., Hayward, M.L.A. and Y. Song. "Getting a Foot in the Door: Trade Credits, Referrals, and the Internationalization of Entrepreneurial Firms." Academy of International Business. Miami, FL. Virtual Conference, July 2020.
 - 
+- *Song, Y. and Gnyawali, D. R. 2015. “Does Absorptive Capacity Really Matter? Insights from Meta-Analysis.” 2015 conference of the Strategic Management Society, Denver.
 - 
 - 
-- []Yan, J., D. Williams, and R.A. Hunt. "A Real Options Perspective on Pattern, Process, and Outcome of Firms’ Entrepreneurial Internationalization." Academy of International Business. Virtual Conference, July 2020.
 - 
+- *Zhou, S., Gnyawali, D. R., and *Srivastava, M.K. 2015. “When does Familiarity Matter? Benefitting from Alliance Partners’ Pioneering Knowledge for Innovation”. 2015 conference of the Strategic Management Society, Denver.
 - 
 - 
-- Hunt, R.A., and D.M. Townsend. “Barriers on the Road to Commensurability: The Impact of Binary Oppositions and Ceremonial Citations on Knowledge Accumulation in Entrepreneurship Research”. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2020.
 - 
-- Full Paper selected as one of forty to be Published in Frontiers of Entrepreneurship Research
+- *Song, Y. and Gnyawali, D. R. 2015. “How Does Absorptive Capacity Matter in Leveraging External Knowledge? Insights from Meta-Analysis”. Annual Meeting of the Academy of Management, Vancouver, Canada.
 - 
 - 
 - 
-- []Yan, J., D. Williams, and R.A. Hunt. “Exploring the Unknown Requires Leveraging Uncertainty: A Real Options Perspective on the Pattern and Process of Entrepreneurial Firms Internationalization”. Babson College Entrepreneurship Research Conference. Virtual Conference, June 2020.
+- *Zhou, S., Gnyawali, D. R., and *Srivastava, M.K., Song, Y. 2015. "When Do Alliances Become Unattractive for Knowledge Search? The Role of Innovation Performance" Annual Meeting of the Academy of Management, Vancouver, Canada.
 - 
-- Full Paper selected as one of forty to be Published in Frontiers of Entrepreneurship Research
 - 
 - 
+- *Zhou, S., Gnyawali, D. R., and *Srivastava, M.K., Song, Y. 2014. “How Prior Performance and Technological Strength Impact Knowledge Utilization: A Behavioral Explanation.”. Annual Meeting of the Academy of Management, Philadelphia.
 - 
-- Townsend, D., R.A. Hunt and A. Joshi. “Muddying the Waters: Induced Equivocality as a Strategic Response to Deinstitutionalization Processes.” Strategic Management Society Conference. Minneapolis, MN, USA. Sept 2019.
 - 
 - 
+- Ritala, P., Gnyawali, D. R., and Jarvi, K. 2014. “Configuration of Innovation Networks: A Conceptual Framework.” Annual Meeting of the Academy of Management, Philadelphia.
 - 
-- []Ortiz-Hunt, A.B., R.A. Hunt, and D.A. Lerner. “Sustainable human healthcare: The centrality of intrapreneurial nurses.” Academy of Management Annual Conference. Boston, MA, Aug 2019.
 - 
-- Selected for Academy of Management 2019 Best Paper Proceedings
+- 
+- *Zhou, S. and Gnyawali, D. R. 2013. Pooling and Leveraging Knowledge in Changing Networks: The Role of Network Vitality on Innovation. Annual Meeting of the Academy of Management, Orlando, FL
+- 
+- 
+- 
+- *Srivastava, M., and Gnyawali, D.R. 2012. Trapped By Your Knowledge Competencies? Impact of Alliance Portfolio Unique Patents On Firm Innovation Quality. International Conference of the Strategic Management Society, Prague, Czech Republic.
+- 
+- 
+- 
+- Gnyawali, D. R., Madhavan, R.M., He, J. and Bengtsson, M. 2012. “Contradictions, Dualities and Tensions in Cooperation and Competition: A Capability Based Framework." Annual Meeting of the Academy of Management, Boston, MA.
+- 
+- 
+- 
+- *Ji, X. and Gnyawali, D. R. 2012. “An International Ambidexterity Model to Understand New Venture Internationalization and Growth.” Annual Meeting of the Academy of Management, Boston, MA.
+- 
+- 
+- 
+- *Zhou, S., Gnyawali, D. R. and *Srivastava, M.K. 2012. “Network Dynamism and Firm Innovation: A Knowledge Based Perspective”. Annual Meeting of the Academy of Management, Boston, MA.
+- 
+- 
+- 
+- Gnyawali, D. R. 2011. “Role of Tension in Co-Opetition” Presentation in the Showcase Symposium titled “From Cooperation and Competition to Co-Opetition Strategy.” International Conference of the Strategic Management Society, Miami, FL.
+- 
+- 
+- 
+- *Srivastava, M., Gnyawali, D. R., and Hatfield, D.E.  2011. “Lost In Your World? Role of Behavioral Orientation On The Impact Of Alliance Portfolio On Innovation.” Annual Meeting of the Academy of Management, San Antonio, TX.
+- 
+- 
+- 
+- *Ji, X (Fiona), Gnyawali, D. R., and Hatfield, D. E. 2011. “Ambidexterity of International New Ventures: A Conceptual Model.” Annual Meeting of the Academy of International Business, Nagoya, Japan.
+- 
+- 
+- 
+- Gnyawali, D. R. and *Park, B.J. 2010. “Co-opetition between Sharks: Drivers and Consequences of Collaboration between Large Competitors.” Mid-Atlantic Strategy Colloquium, College Park, MD.
+- 
+- 
+- 
+- Gnyawali, D. R., and *Park, B.J. 2010. “Tensions are High When Giants Engage in Co-Opetition.” International conference of the Strategic Management Society, Rome, Italy.
+- 
+- 
+- 
+- *Srivastava, M.K, Gnyawali, D.R. and *Lan, H 2010. “Making the Most of What You Have: Impact of Alliance Portfolio Characteristics on Technological Innovations.” International Conference of the Strategic Management Society, Rome, Italy.
+- 
+- 
+- 
+- •Srivastava, M. K. and Gnyawali, D.R., and Tallman, S. 2010. “Differential Impact of Alliance Network and Cluster Resources on Breakthrough Innovation”. Annual Meeting of the Academy of Management, Montreal, Canada.
+- 
+- 
+- 
+- *Srivastava, M. K. and Gnyawali, D.R. 2009. “Impact of Relational Resources on Breakthrough Innovation: Evidence from U.S. Semiconductor Industry.” Annual meeting of the Academy of Management, Chicago, IL.
+- 
+- 
+- 
+- *Park, B.J., Gnyawali, D. R., and *Srivastava, M. K. 2009. “Collaborate, Compete, and Innovate: Effects of Alliance Portfolio Resources and Competitive Attributes on Firm Innovation.” Annual meeting of the Academy of Management, Chicago, IL.
+- 
+- 
+- 
+- Gnyawali, D.R. and *Park, B.J. 2009. “Co-Opetition and Technological Innovation in Small and Medium Enterprises.” International Workshop on Co-Opetition and Entrepreneurship, Montpellier, France.
+- 
+- 
+- 
+- *Ji, X (Fiona) and Gnyawali, D.R. 2009. “New Ventures in the Flat World: Role of Learning and Opportunity Identification on New Venture Internationalization.“ Academy of International Business, San Diego, CA.
+- 
+- 
+- 
+- Gnyawali, D.R., Fan, W., & Penner, J. 2009. “Competitive Actions and Dynamics in the Digital Age: An Empirical Investigation of Social Networking Firms.” Symposium held at Rensselaer Polytechnic Institute, NY.
+- 
+- 
+- 
+- *Srivastava, M. K. and Gnyawali, D. R. 2008. “All That Glitters is Not Gold: The Impact of Network and Cluster Technological Resources on the Breakthrough Innovations.” International Conference of the Strategic Management Society, Cologne, Germany.
+- 
+- 
+- 
+- Gnyawali, D.R. and *Park, B.J. 2008. “Co-Opetition and Technological Innovation in SMEs: A Multi-Level Conceptual Model.” Annual Meeting of the Academy of Management, Anaheim, CA.
+- 
+- 
+- 
+- *Srivastava, M. K. and Gnyawali, D. R. 2008. “Reach Out to Innovate: The Effects of Network and Cluster Resources On Firm Innovation.” Annual Meeting of the Academy of Management, Anaheim, CA.
+- 
+- 
+- 
+- Gnyawali, D. R. and *Park, B.J. 2008. “Drivers of Co-Opetition for Technological Innovation.” Conference on Co-Opetition Strategy Organized by the European Institute for Advanced Studies in Management (EIASM), Madrid, Spain.
+- 
+- 
+- 
+- This paper received the Best Paper Award from the conference
+- 
+- 
+- 
+- Gnyawali, D. R. and *Srivastava, M. 2007. “Leverage Your Network and Innovate: The Effects of Inter-Firm Network Orientations on Breakthrough Innovations.” International Conference of the Strategic Management Society, San Diego, CA.
+- 
+- 
+- 
+- Gnyawali, D. R. and *Park, B. 2007. “Co-Opetition for Technological Innovation: An In-Depth Exploratory Study.” International Conference of the Strategic Management Society, San Diego, CA.
+- 
+- 
+- 
+- Gnyawali, D. R. *Singal, M. and *Mu, S. 2007. “Inter-Subsidiary Collaboration for Knowledge: A Conceptual Model.” Annual Meeting of the Academy of Management, Philadelphia, PA.
+- 
+- 
+- 
+- *Park, B. and Gnyawali, D. R. 2007. “Co-opetition in the Context of Technological Innovation: A Conceptual Model.” Annual Meeting of the Academy of Management, Philadelphia, PA.
+- 
+- 
+- 
+- *Srivastava, M. and Gnyawali, D. R. 2007. “Redundant or Complementary? Effects of Inter-Firm Network and Cluster On Firm Innovation.” Annual Meeting of the Academy of Management, Philadelphia, PA.
+- 
+- 
+- 
+- *Srivastava, M. and Gnyawali, D. R. 2006. “Collaborate or Co-Locate? Effects of Inter-Organizational Network and Cluster On Firm Innovation.” International Conference of the Strategic Management Society, Vienna, Austria.
+- 
+- 
+- 
+- *Offstein, E., Madhavan, R. and Gnyawali, D.R. 2006. “Pushing the Frontier of LMX Research: The Contribution of Triads.” Annual Meeting of the Academy of Management, Atlanta, GA.
+- 
+- 
+- 
+- *Offstein, E., Shah, A. and Gnyawali, D. R. 2006. “Effects of CEO-BOD Mentoring on Firm Competitive Behavior.” Annual Meeting of the Academy of Management, Atlanta, GA.
+- 
+- 
+- 
+- *Srivastava, M. and Gnyawali, D. R 2006. “Overcoming Innovation Barriers: An Ego Network Perspective.” 3rd Annual Meeting of the Atlanta Competitive Advantage Conference, Atlanta, GA.
+- 
+- 
+- 
+- *Srivastava, M. and Gnyawali, D. R. 2005. “Restructure Your Network to Innovate: The Importance of Network Dynamics on Firm Innovation.”  International Conference of the Strategic Management Society, Orlando, FL.
+- 
+- 
+- 
+- Gnyawali, D.R. and Tyler, B. 2005. “Cause Mapping In Strategic Management Research: Processes, Issues, And Observations.” Annual Meeting of the Academy of Management, Honolulu, HI.
+- 
+- 
+- 
+- *Offstein, E. H. and Gnyawali, D. R. 2005. "You Get What You Pay For: Impact of Top Management Team Incentive Pay on Firm Competitive Behavior." Annual Meeting of the Academy of Management, Honolulu, HI.
+- 
+- 
+- 
+- *Mu, S. & Gnyawali, D. R. 2005. “Exploration Exploitation: The Effects of Subsidiary Learning Strategy on Knowledge Outcomes.” Annual Meeting of the Academy of Management, Honolulu, HI.
+- 
+- 
+- 
+- *Offstein, E. H. & Gnyawali, D.R. 2004.  “It Pays To Behave: Firm Competitive Behavior As A Determinant of CEO Pay.” Annual Meeting of the Academy of Management, New Orleans, LA.
+- 
+- 
+- 
+- This paper won the Best Doctoral Student Paper Award (selected among all papers in which the first author or the sole author is a doctoral student).
+- 
+- 
+- 
+- *Offstein, E. H. and Gnyawali, D. R. 2004. "A Humanistic Perspective of Firm Competitive Behavior." Annual Meeting of the American Society for Competitiveness, Washington D. C.
+- 
+- 
+- 
+- This paper received the Best Conceptual Paper Award from the Conference.
+- 
+- 
+- 
+- *Srivastava, M. & Gnyawali, D. R. 2004. “Toward an Ego Network Theory of Innovation”. Annual Meeting of the Academy of Management, New Orleans, LA.
+- 
+- 
+- 
+- Gnyawali, D. R., *Offstein, E. and *Srivastava, M. 2003. “Intersection between Executive Compensation and Competitive Strategy: Empirical Evidence From The U.S. Pharmaceutical Industry.” International Conference of the Strategic Management Society, Baltimore, MD.
+- 
+- 
+- 
+- This paper was selected as one of the finalists for the SMS/McKinsey Best Paper Award.
+- 
+- 
+- 
+- *Mu, S. & Gnyawali, D. R. 2003. “Inter-Subsidiary Tie Formation: Administrative Manipulation of the HQ or Voluntary Choice of Subsidiaries?” Annual Meeting of the Academy of Management, Seattle, WA.
+- 
+- 
+- 
+- *Offstein, E., Gnyawali, D. R., and *Srivastava, M. 2003. “Executive Compensation and Firm Competitive Behavior.” Annual Meeting of the Academy of Management, Seattle, WA.
+- 
+- 
+- 
+- Madhavan, R., Gnyawali, D. & He, J. 2003. “Learning In Competitor Alliance Networks: An Empirical Investigation.” Annual Meeting of the Academy of Management, Seattle, WA.
+- 
+- 
+- 
+- Gnyawali, D. R. 2002. “Learning by Collaboration: Roles of Interfirm Networks in Enhancing Knowledge Advantage.” Annual Meeting of the Academy of Management, Denver, CO.
+- 
+- 
+- 
+- Gnyawali, D. R., He, J., & Madhavan, R. 2002. “Network Structure and Competitive Behavior: Empirical Evidence from the Global Steel Industry.” Annual Meeting of the Academy of Management, Denver, CO.
+- 
+- 
+- 
+- Gnyawali, D. R. 2001. “Inter-Organizational Learning: Enhancing Knowledge Advantage Through Inter-Firm Networks.” International Conference of the Strategic Management Society, San Francisco, CA.
+- 
+- 
+- 
+- Gnyawali, D. R. & Madhavan, R. 2000. "The Structural Embeddedness of Competitive Behavior: Theory and Empirical Evidence."  International Conference of the Strategic Management Society, Vancouver, Canada.
+- 
+- 
+- 
+- Gnyawali, D. R. & Madhavan, R. 2000. "The Network Structure of Competition: A Structural Embeddedness Perspective of Competitive Dynamics." Showcase Symposium entitled "The Embeddedness of Competitive Behavior: Emerging Perspectives" Annual Meeting of the Academy of Management, Toronto, Canada.
+- 
+- 
+- 
+- *Mu, S. & Gnyawali, D. R. 2000. "Synergistic Knowledge Development in Cross-Major Student Groups: An Empirical Examination." Annual Meeting of the Academy of Management, Toronto, Canada.
+- 
+- 
+- 
+- Tyler, B. & Gnyawali, D. R. 1999. "Innovative Capabilities: The Role of Manager’s Knowledge, Learning, and Perception of New Product Performance." International Conference of the Strategic Management Society, Berlin, Germany.
+- 
+- 
+- 
+- Sheetz, S. D, Gnyawali, D. R., Tegarden, L. F., Tegarden, D. P., & Poppo, L. 1999. "Visualizing and Evaluating Student Understanding of Strategic Management: Using Cognitive Maps for Case Analysis." Annual Meeting of the Academy of Management, Chicago, IL.
+- 
+- 
+- 
+- Sheetz, S. D., Tegarden, D. P., Tegarden, L. F., Poppo, L., & Gnyawali, D. R. 1999. "A WWW-Based Group Cognitive Mapping Approach to Support Case-Based Learning." Association for Information Systems 1999 Americas Conference on Information Systems (AMCIS), Milwaukee, WI.
+- 
+- 
+- 
+- Gnyawali, D. R. 1999. "Dynamics of Inter-Organizational Learning: Learning Processes and Organizational Knowledge." 3rd International Conference on Organizational Learning, Lancaster, England.
+- 
+- 
+- 
+- Gnyawali, D. R. 1998. "Dynamics of Collaboration and Competition: How Inter-Firm Networks Influence Knowledge Flows and Competition." Annual Meeting of the Strategic Management Society, Orlando, FL.
+- 
+- 
+- 
+- Gnyawali, D. R. 1998. "Competition through Collaboration: Roles of Inter-Organizational Networks on Competitive Dynamics." Annual Meeting of the Academy of Management, San Diego, CA.
+- 
+- 
+- 
+- Gnyawali, D. R. & Stewart, A. C. 1998. "Addressing Measurement Challenges in Organizational Learning Research: Use of A Rich Organizational Simulation." Academy of Management Midyear Conference on “Organizational Learning: Moving from Theory to Research” held at George Washington University.
+- 
+- 
+- 
+- Stewart, A. C. & Gnyawali, D. R. 1998. "Examining the Organizational Learning System: Measurement and Data Aggregation Issues at Three Levels of Analysis." Academy of Management Midyear Conference on “Organizational Learning: Moving from Theory to Research" held at George Washington University.
+- 
+- 
+- 
+- Gnyawali, D. R., Stewart, A. C., & Grant, J. H. 1997. “Creation and Utilization of Organizational Knowledge: An Empirical Study of the Effects of Organizational Learning on Strategic Decision Making.” Annual Meeting of the Academy of Management, Boston, MA.
+- 
+- 
+- 
+- Stewart, A. C. & Gnyawali, D. R. 1997. “Facilitating Knowledge in Multinational Corporations: Configuring MNC Intra-Organizational Networks to Enhance Organizational Learning.” Annual Meeting of the Academy of Management, Boston, MA.
+- 
+- 
+- 
+- Gnyawali, D. R., Grant, J. H., & Stewart, A. C. 1996. "Organizational Learning Effects on Strategic Decision Outcomes: An Empirical Examination.” International Conference of the Strategic Management Society, Phoenix, AZ.
+- 
+- 
+- 
+- Stewart, A. C. & Gnyawali, D. R. 1996. "Knowledge Flows in Multinational Organizations: The Role of Organizational Learning." International Conference of the Strategic Management Society, Phoenix, AZ.
+- 
+- 
+- 
+- Gnyawali, D. R. & Stewart, A. C. 1996. “An Empirical Examination of the Effects of Organizational Learning on Strategic Decision Outcomes.” Center for Creative Leadership, Greensboro, NC. A related presentation was made in December 1994.
+- 
+- 
+- 
+- Gnyawali, D. R. 1995. "Toward a Theory of Competitive Dynamics." Annual Meeting of the Academy of Management, Vancouver, Canada.
+- 
+- 
+- 
+- Gnyawali, D. R. & Stewart, A. C. 1994. "An Integrative Framework of Organizational Learning: Content, Process, and Outcomes.” Annual Meeting of the Academy of Management, Dallas, TX.
+- 
+- 
+- 
+- Gnyawali, D. R. & Grant, J. H. 1994. "Organizational Learning and Decision-Making in the Process of Corporate Venture Development.” Annual Meeting of the Academy of Management, Dallas, TX.
+- 
+- 
+- 
+- Gnyawali, D. R. 1994. "Organizational Learning for Corporate Entrepreneurship: An Integrated Perspective." Eastern Academy of Management Meetings, Albany, NY.
+- 
+- 
+- 
+- Ray, D. M. et al. 1992. "Evaluation of CEFE Entrepreneurship Training Programs in Asia.” Babson Entrepreneurship Research Conference, INSEAD, France.
+- 
+- 
 - 
 
 Book Chapters:
 - 
 - 
 - 
-- Hunt, R.A., D.M. Townsend, and []P. Manocha. (2022) “Entrepreneurial Action Theory and the Uncertainty-bearing Thesis of Entrepreneurial Action in the Age of Artificial Intelligence.” In B. Ozkazanc-Pan (ed.) Modern Classics in Entrepreneurship Studies. Palgrave-McMillan.
+- Ryan Charleton, T., Gnyawali, D. R., & Galavan, R. J. 2018. “Theoretical Perspectives on Coopetition: Review and Integration.”. The Routledge Companion to Coopetition Strategies. Fernandez et al (Editors), pages 23-35.
 - 
 - 
 - 
-- []Saleh, S.H. and R.A. Hunt. (2020), "The Role of Heuristics and Biases in Entrepreneurial Decision-making When Creativity is a Necessity", Caputo, A. and Pellegrini, M. (Ed.) The Entrepreneurial Behaviour: Unveiling the Cognitive and Emotional Aspect of Entrepreneurship (Entrepreneurial Behaviour Series), Emerald Publishing Limited, pp. 191-212.
+- *Srivastava, M. K., Bruyaka, O., & Gnyawali, D. R. 2012. “Overcoming Innovation Barriers: Alliance Portfolio Characteristics and Technological Innovations.” In B. Ran (Ed.), Contemporary Perspectives on Technological Innovation, Management and Policy, Vol. 1: 121-156. Charlotte, NC: Information Age Publishing.
 - 
 - 
 - 
-- Townsend, D. and R.A. Hunt. (2019) “Crowdfunding and the Digitization of Early-Stage Finance: Opportunities and Challenges for Entrepreneurial Ventures”. In A. Parhankangas (ed.) Handbook of Research on Crowdfunding. New York: Routledge.
+- Gnyawali, D. R., He, J., and Madhavan, R. 2008. “Co-Opetition: Promises and Challenges.” Chapter in the 21st Century Management: A Reference Handbook, Wankel, C. (Ed), pages 386-398
 - 
 - 
 - 
-- Hunt, R.A. and []L.L. Ortiz-Hunt. (2018) “Deinstitutionalization Through Business Model Evolution: Women Entrepreneurs in the Middle East and North Africa.” In L. Mura (ed.)  Entrepreneurship - Development Tendencies and Empirical Approach. Rijeka, Croatia: InTech.
-- 
-- Winner of the Ford Foundation “Empowering Women” Award
+- Translated and published in French language in the book titled “Les stratégies de coopétition. Rivaliser et coopérer simultanément", Yami S., Le Roy F. & Pellegrin-Boucher E (Editors).
 - 
 - 
 - 
-- Kiefer, K. and R.A. Hunt. (2017) “Whose Hype Matters? The Battle for Value Creation in Contemporary Financial Communications.” In A. Laskin (ed.), Handbook of Financial Communication and Investor Relations. New York: Wiley.
+- *Offstein, E. H., Madhavan, R. and Gnyawali, D. R. 2006. “Pushing the Frontier of LMX Research: The Contribution of Triads.” Chapter 5 in Sharing Network Leadership, 4: 95-117. George B. Graen (Ed.), Greenwich CT: Information Age Publishing, Inc.
 - 
 - 
 - 
-- Hunt, R.A., and []L.L. Ortiz-Hunt. (2017) “Steam Ships on the Western Waterways: Managing the Challenge of Multi-Directional Value Creation.” In M. Paulo (ed.) Innovating Entrepreneurs: An Historical Approach.
-- 
-- 
-- 
-- 
+- Gnyawali, D. R. and Tyler, B. 2005. “Cause Mapping In Strategic Management Research: Processes, Issues, and Observations.” Research Methodology in Strategy and Management, 2: 225-258.
 - 
 - 
 - 

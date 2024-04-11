@@ -114,12 +114,28 @@ def write_sections_to_file(publications, conferences, book_chapters, output_file
 
 def find_person_name(resume_text):
     # Process the resume text with spaCy
-    doc = nlp(resume_text)
+    lines = resume_text.split("\n")
     
-    # Look for the first named 'PERSON' entity
-    for ent in doc.ents:
-        if ent.label_ == "PERSON":
-            return ent.text
+    # Keep only the first two non-empty lines
+    first_two_lines = [line for line in lines if line.strip()][:2]
+    
+    # Process these lines with spaCy and collect named entities
+    named_entities = []
+    for line in first_two_lines:
+        doc = nlp(line)
+        for ent in doc.ents:
+            print(ent.text + " " + ent.label_)
+            named_entities.append((ent.text, ent.label_))
+            if ent.label_ == "PERSON":
+                return ent.text  # Return the first 'PERSON' entity found
+    
+    # If no 'PERSON' entity is found, attempt to return text not recognized as any named entity
+    for line in first_two_lines:
+        doc = nlp(line)  # Re-process each line to check for entities
+        if not doc.ents:  # If the line has no named entities, consider it as the person's name
+            return line.strip()
+
+    # If no name is found by now, return a default message
     return "Name not found"
 
 def process_resume(file_path):
@@ -329,8 +345,8 @@ def start(file_path,headers_capital,year):
     output_file_path = './sections.txt'  # Update with your actual output file path
     write_sections_to_file(publications, conferences, book_chapters, output_file_path,header_types)
 
-    output_excel_path = 'C:\WORK\PatentsView_data\ResumeParser\Faculty research publications details TEST.xlsx'
-    populate_excel(output_excel_path,filtered_publications, filtered_conferences, filtered_book_chapters,name,extracted_pubs,extracted_conf,extracted_books)
+    # output_excel_path = 'C:\WORK\PatentsView_data\ResumeParser\Faculty research publications details TEST.xlsx'
+    # populate_excel(output_excel_path,filtered_publications, filtered_conferences, filtered_book_chapters,name,extracted_pubs,extracted_conf,extracted_books)
     combined_data = {
         "name":name,
         "publications": extracted_pubs,

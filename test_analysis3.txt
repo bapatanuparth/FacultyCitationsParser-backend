@@ -1,0 +1,6 @@
+schanetterly:
+    name parsing
+
+Wokutch:
+    Publication word in header
+    citation not contain year

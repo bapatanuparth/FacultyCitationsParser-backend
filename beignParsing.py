@@ -66,21 +66,21 @@ def parse_resume(file_path,year):
         combined_data=start(file_path, False,year)
     return combined_data
 
-def parse_resumes(directory_path):
-    # Loop over all files in the directory
-    for filename in os.listdir(directory_path):
-        # Construct the full file path
-        file_path = os.path.join(directory_path, filename)
+# def parse_resumes(directory_path):
+#     # Loop over all files in the directory
+#     for filename in os.listdir(directory_path):
+#         # Construct the full file path
+#         file_path = os.path.join(directory_path, filename)
         
-        # Check if the current file is a .docx file
-        if file_path.endswith('.docx'):
-            # Print the file path
-            print(f"Processing: {file_path}")
-            # Print the output of check_headers_capital for the file
-            headers_capital = check_headers_capital(file_path)
-            print(f"Headers in all caps: {headers_capital}")
-        else:
-            print(f"Skipping non-docx file: {file_path}")
+#         # Check if the current file is a .docx file
+#         if file_path.endswith('.docx'):
+#             # Print the file path
+#             print(f"Processing: {file_path}")
+#             # Print the output of check_headers_capital for the file
+#             headers_capital = check_headers_capital(file_path)
+#             print(f"Headers in all caps: {headers_capital}")
+#         else:
+#             print(f"Skipping non-docx file: {file_path}")
 
 # Directory containing all resumes
 # directory_path = r"C:\Users\Parth\Downloads\General\General\all_resumes"
