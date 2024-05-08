@@ -4,6 +4,7 @@ import spacy
 import openpyxl
 from parser4 import start, is_header, classify_header_type
 import os
+import pdfplumber
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -59,12 +60,24 @@ def check_headers_capital(file_path):
     return headers_capital
 
 def parse_resume(file_path,year):
-    
-    if check_headers_capital(file_path):
-        combined_data=start(file_path, True,year)
+    if is_pdf(file_path):
+        parse_pdf(file_path)
     else:
-        combined_data=start(file_path, False,year)
+        if check_headers_capital(file_path):
+            combined_data=start(file_path, True,year)
+        else:
+            combined_data=start(file_path, False,year)
     return combined_data
+
+def is_pdf(file_path):
+    return file_path.lower().endswith('.pdf')
+
+def parse_pdf(file_path):
+    with pdfplumber.open(file_path) as pdf:
+        all_text = ''
+        for page in pdf.pages:
+            all_text += page.extract_text() + '\n'
+    return all_text
 
 # def parse_resumes(directory_path):
 #     # Loop over all files in the directory

@@ -1,8 +1,9 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_file
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 import os
 from beignParsing import parse_resume
+from json_converter import json_to_excel, json_to_doc
 
 # Create the Flask app
 app = Flask(__name__)
@@ -43,7 +44,7 @@ def upload_many_files():
             responses.append({'error': 'No selected file'})
             continue
 
-        if file and file.filename.endswith('.docx'):
+        if file:
             year = request.form.get('year', '2023')
             filename = secure_filename(file.filename)
             filepath = os.path.join('./temp/', filename)
@@ -55,8 +56,20 @@ def upload_many_files():
 
     return jsonify(responses)
 
-# @app.route('/createExcel', method=['POST'])
-# def create_excel():
+@app.route('/createExcel', methods=['POST'])
+def create_excel():
+    data= request.json
+    output_path='./output.xlsx'
+    json_to_excel(data, output_path)
+    return send_file(output_path, as_attachment=True, attachment_filename='output.xlsx')
+
+@app.route('/createDoc', methods=['POST'])
+def create_doc():
+    data= request.json
+    output_path='./outputDoc.docx'
+    file_stream=json_to_doc(data, output_path)
+    return send_file(file_stream, as_attachment=True, attachment_filename='output.docx')
+
 
 
 if __name__ == '__main__':
