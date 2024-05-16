@@ -67,7 +67,7 @@ def parse_resume(file_path,year):
             combined_data=start(file_path, True,year)
         else:
             combined_data=start(file_path, False,year)
-    return combined_data
+        return combined_data
 
 def is_pdf(file_path):
     return file_path.lower().endswith('.pdf')

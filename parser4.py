@@ -25,7 +25,7 @@ publication_headers = [
    "Peer reviewed journals ","Refereed Journals"
 ]
 
-book_headers= ["Books and Book Chapters", "Books", "Book chapters","Book reviews"]
+book_headers= ["Books and Book Chapters", "Books", "Book chapters","Book reviews", "Book chapter"]
 
 conference_headers=["Conference Proceedings","Conference presentations", "Conference Workshops","Presentations", "Conference papers","PEER REVIEWED PROCEEDINGS"]
 
@@ -115,13 +115,20 @@ def write_sections_to_file(publications, conferences, book_chapters, output_file
 def find_person_name(resume_text):
     # Process the resume text with spaCy
     lines = resume_text.split("\n")
-    
+    excluded_words = {'curriculum', 'vita', 'resume', 'cv'}
     # Keep only the first two non-empty lines
-    first_two_lines = [line for line in lines if line.strip()][:2]
+    # first_two_lines = [line for line in lines if line.strip()][:3]
+    first_three_lines = []
+    for line in lines:
+        if line.strip() and not any(word in line.lower() for word in excluded_words):
+            first_three_lines.append(line)
+            if len(first_three_lines) == 3:
+                break
     
     # Process these lines with spaCy and collect named entities
     named_entities = []
-    for line in first_two_lines:
+    for line in first_three_lines:
+        print("printint lines" + line)
         doc = nlp(line)
         for ent in doc.ents:
             print(ent.text + " " + ent.label_)
@@ -130,7 +137,7 @@ def find_person_name(resume_text):
                 return ent.text  # Return the first 'PERSON' entity found
     
     # If no 'PERSON' entity is found, attempt to return text not recognized as any named entity
-    for line in first_two_lines:
+    for line in first_three_lines:
         doc = nlp(line)  # Re-process each line to check for entities
         if not doc.ents:  # If the line has no named entities, consider it as the person's name
             return line.strip()
